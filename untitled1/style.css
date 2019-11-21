@@ -1,0 +1,36 @@
+ .para1{
+    font-family: "Century Gothic";
+    text-align: center;
+    color: #54595f
+}
+#bo1{
+    color: black;
+    text-align: center;
+    font-family: "Yu Gothic Light";
+}
+#bo1:hover{
+    color: royalblue;
+}
+body {
+   background-color: white;
+}
+#para2{
+    color: indigo;
+    font-family: "Century Gothic";
+    text-align: left;
+}
+#gg:hover{
+    color: gold;
+    text-decoration: underline;
+}
+#gg{
+    color: royalblue;
+    text-decoration: none;
+    text-align: left;
+    font-family: "Century Gothic";
+}
+p{
+    text-align: right;
+}
+
+
